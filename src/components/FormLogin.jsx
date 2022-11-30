@@ -1,6 +1,5 @@
-import { Nav } from 'react-bootstrap';
-import Button from 'react-bootstrap/Button';
-import Form from 'react-bootstrap/Form';
+
+import { Nav, Button, Form } from 'react-bootstrap';
 
 function LoginForm() {
   return (

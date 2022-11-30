@@ -1,11 +1,11 @@
 import Button from 'react-bootstrap/Button';
 
-function TypesExample() {
+function ButtonSave() {
   return (
     <>
-      <Button variant="primary border-secondary">Registro</Button>{' '}
+      <Button variant="primary border-secondary">Registro</Button>
     </>
   );
 }
 
-export default TypesExample;
+export default ButtonSave;
